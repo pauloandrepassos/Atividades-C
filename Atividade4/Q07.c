@@ -14,4 +14,6 @@ int main() {
     else {
         printf("%d elevado a %d é igual a %d", a, b, potencia);
     }
+
+    return 0;
 }

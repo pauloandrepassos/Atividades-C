@@ -13,4 +13,6 @@ int main () {
         printf("%d/%d + ", i, j);
     }
     printf("%d/%d", i, j);
+
+    return 0;
 }

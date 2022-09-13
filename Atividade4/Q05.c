@@ -29,4 +29,5 @@ int main() {
         
     } while (count <= n);
     
+    return 0;
 }

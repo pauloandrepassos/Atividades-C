@@ -10,11 +10,5 @@ int main() {
         num = num / 10;
         printf("%d", resto);
     }
-
-/*
-    do {resto = num % 10;
-        num = num / 10;
-        printf("%d", resto);
-    } while (num > 10);
-*/  
+    return 0;
 }
