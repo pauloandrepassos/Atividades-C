@@ -11,4 +11,6 @@ int main() {
         alt -= sub - des;
      }
      printf("Serao necessario %d dias.", dia);
+
+     return 0;
 }

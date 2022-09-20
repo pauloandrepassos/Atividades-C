@@ -13,4 +13,6 @@ int main() {
             num /= i;
         }
     }
+
+    return 0;
 }
